@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mobily", "mobily\mobily.csproj", "{0729578C-13E2-45F6-8EA7-C4B936DC3E00}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "mobily-setup", "mobily-setup\mobily-setup.vdproj", "{EAFC4179-B705-48CF-942F-8BD80A4C813A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0729578C-13E2-45F6-8EA7-C4B936DC3E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0729578C-13E2-45F6-8EA7-C4B936DC3E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0729578C-13E2-45F6-8EA7-C4B936DC3E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0729578C-13E2-45F6-8EA7-C4B936DC3E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFC4179-B705-48CF-942F-8BD80A4C813A}.Debug|Any CPU.ActiveCfg = Debug
+		{EAFC4179-B705-48CF-942F-8BD80A4C813A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D408F5EE-428A-4AE1-B91A-4EF449B533CC}
+	EndGlobalSection
+EndGlobal
